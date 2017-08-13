@@ -1,2 +1,2 @@
 # Learn RxJS
-Contains examples, from tutorials on RxJ
+Contains examples, from tutorials on RxJs
